@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "d9f3cf1ae12f1100",
+    "type": "split",
+    "children": [
+      {
+        "id": "d25cc62468f40199",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c69ca8150d309f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "$/Borber.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5dbdb45e836a3fab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contents.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba07f0fe436d9d82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "robot coordinate human.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7fb1f5a4aa80b21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contents.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1b6453af4c09438",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "When a person acts alone, their behavior is very different than when they're not.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3be1b920c8e3be72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Joint Action.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18db81659db4410c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "robot coordinate human.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "48d39fb11e8d32e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "02e8586709a5bcfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0e46e6c2d1f54a2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "21b9aca010ec24ac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "23e89dbbc69eebc9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0d7328c8a4a7b6a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "00b16429fa04b678",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f65635f316af6a49",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Joint Action.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f977a2c5fbf32ef4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Joint Action.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d6f9da8d16d1c1b1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "da2ed20154675acf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Joint Action.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "templates:Insert template": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "3be1b920c8e3be72",
+  "lastOpenFiles": [
+    "robot coordinate human.md",
+    "Joint Action.md",
+    "Reading_note/@iqbalHumanRobotTeamingApproaches2019.md",
+    "When a person acts alone, their behavior is very different than when they're not.md",
+    "To understand interaction in group.md",
+    "How to write Introduction.md",
+    "$/Borber.md",
+    "Contents.md",
+    "Reading_note/Contents.md",
+    "ARCHIVE",
+    "$/Zotero.md",
+    "$/Dataview.md",
+    "$/Mermaid.md",
+    "$/table.md",
+    "Untitled 1.md",
+    "Reading_note",
+    "@iqbalHumanRobotTeamingApproaches2019.md",
+    "@13thIAPRInternational2013.md",
+    "{{zoteroSelectURI}}.md",
+    "$/@{{citekey}}.md",
+    "cognitive gap +.md",
+    "$",
+    "template/table.md",
+    "template/Mermaid.md",
+    "template/Borber.md",
+    "template"
+  ]
+}

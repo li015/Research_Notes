@@ -4,59 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d25cc62468f40199",
+        "id": "2cab1223ef760687",
         "type": "tabs",
         "children": [
           {
-            "id": "4c69ca8150d309f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "$/Borber.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5dbdb45e836a3fab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contents.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba07f0fe436d9d82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "robot coordinate human.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7fb1f5a4aa80b21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contents.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1b6453af4c09438",
+            "id": "4e0c0e7cb0a5dfaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -68,31 +20,55 @@
             }
           },
           {
-            "id": "3be1b920c8e3be72",
+            "id": "e7bc183a5387b710",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Joint Action.md",
+                "file": "When a person acts alone, their behavior is very different than when they're not.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "18db81659db4410c",
+            "id": "19440e1eb22d5e26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robot coordinate human.md",
+                "file": "關於joint action可能的順序模式.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24818a9427c2577a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "關於joint action可能的順序模式.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18f6b843ea51f701",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "joint action架構Sebanz.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -158,14 +134,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Joint Action.md",
+                "file": "joint action架構Sebanz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -175,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Joint Action.md",
+                "file": "joint action架構Sebanz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,8 +174,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Joint Action.md"
+                "file": "joint action架構Sebanz.md"
               }
+            }
+          },
+          {
+            "id": "53e8884069d89d3a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ]
@@ -221,16 +205,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3be1b920c8e3be72",
+  "active": "18f6b843ea51f701",
   "lastOpenFiles": [
-    "robot coordinate human.md",
-    "Joint Action.md",
-    "Reading_note/@iqbalHumanRobotTeamingApproaches2019.md",
+    "關於joint action可能的順序模式.md",
+    "joint action架構Sebanz.md",
+    "Untitled.md",
     "When a person acts alone, their behavior is very different than when they're not.md",
-    "To understand interaction in group.md",
+    "Reading_note/@Vesper2010998.md",
+    "Reading_note/@SebanzPrediction in joint action2009353.md",
+    "Reading_note/@KnoblichAction coordination in groups20031006.md",
+    "Reading_note/@JarrasséA framework to describe2012.md",
+    "HRC contents.md",
     "How to write Introduction.md",
-    "$/Borber.md",
+    "How do you cite a source that cites another source.md",
+    "Joint Action.md",
+    "robot coordinate human.md",
+    "Reading_note/@HoffmanAnticipatory perceptual simulation2008.md",
+    "To understand interaction in group.md",
+    "Reading_note/@iqbalHumanRobotTeamingApproaches2019.md",
+    "Reading_note/@2012IEEEApplied2012.md",
     "Contents.md",
+    "Dynamical Modeling of Groups.md",
+    "$/Borber.md",
     "Reading_note/Contents.md",
     "ARCHIVE",
     "$/Zotero.md",
@@ -239,15 +235,7 @@
     "$/table.md",
     "Untitled 1.md",
     "Reading_note",
-    "@iqbalHumanRobotTeamingApproaches2019.md",
-    "@13thIAPRInternational2013.md",
-    "{{zoteroSelectURI}}.md",
-    "$/@{{citekey}}.md",
-    "cognitive gap +.md",
     "$",
-    "template/table.md",
-    "template/Mermaid.md",
-    "template/Borber.md",
     "template"
   ]
 }

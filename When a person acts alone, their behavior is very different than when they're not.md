@@ -3,7 +3,7 @@ Create_time : 2023-03-09 17:08
 Alias : Quote
 Unsolved : V
 ---
-[Cite :: [[@iqbalHumanRobotTeamingApproaches2019]]- [32]]
+[Cite :: [[@KnoblichAction coordination in groups20031006]][[@iqbalHumanRobotTeamingApproaches2019]]]
 [Last_modified : : `$= dv.current().file.mtime`.]
 ##### [notes ::  When a person acts alone, their behavior is very different than when they coordinate in a group]
 

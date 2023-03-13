@@ -1,9 +1,9 @@
 ---
-Create_time : {{date:YYYY-MM-DD}} {{time:HH:mm}}
+Create_time : 2023-03-10 15:43
 Alias : 
 Unsolved : V
 ---
-[Cite ::  ]
+[Cite :: [[@Vesper2010998]]  ]
 [Last_modified : : `$= dv.current().file.mtime`.]
 ##### [notes ::   ]
 

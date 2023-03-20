@@ -1,1 +1,10 @@
-{}
+{
+  "obsidian-citation-plugin:insert-citation": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ]
+}

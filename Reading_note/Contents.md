@@ -1,4 +1,5 @@
 ```dataview
-list title
+table title , year
 from  "Reading_note"
+sort year
 ```

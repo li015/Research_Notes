@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2cab1223ef760687",
+        "id": "1269e59a2cece410",
         "type": "tabs",
         "children": [
           {
-            "id": "4e0c0e7cb0a5dfaf",
+            "id": "4a9f4a250faa3eb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,55 +20,41 @@
             }
           },
           {
-            "id": "e7bc183a5387b710",
+            "id": "0a24182af848b8c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "When a person acts alone, their behavior is very different than when they're not.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "19440e1eb22d5e26",
+            "id": "37f15c8ea96102d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "關於joint action可能的順序模式.md",
+                "file": "Structural Equation Modeling.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "24818a9427c2577a",
+            "id": "5f3e1fd1c377d85a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "關於joint action可能的順序模式.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18f6b843ea51f701",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "joint action架構Sebanz.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.1.16"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "joint action架構Sebanz.md",
+                "file": "Structural Equation Modeling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "joint action架構Sebanz.md",
+                "file": "Structural Equation Modeling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "joint action架構Sebanz.md"
+                "file": "Structural Equation Modeling.md"
               }
             }
           },
@@ -205,35 +191,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "18f6b843ea51f701",
+  "active": "5f3e1fd1c377d85a",
   "lastOpenFiles": [
-    "關於joint action可能的順序模式.md",
-    "joint action架構Sebanz.md",
     "Untitled.md",
-    "When a person acts alone, their behavior is very different than when they're not.md",
-    "Reading_note/@Vesper2010998.md",
-    "Reading_note/@SebanzPrediction in joint action2009353.md",
+    "Structural Equation Modeling.md",
+    "Reading_note/Contents.md",
     "Reading_note/@KnoblichAction coordination in groups20031006.md",
+    "Reading_note/@SebanzPrediction in joint action2009353.md",
+    "Reading_note/@iqbalHumanRobotTeamingApproaches2019.md",
+    "Reading_note/@HoffmanAnticipatory perceptual simulation2008.md",
+    "Contents.md",
+    "Dynamical Modeling of Groups.md",
+    "Reading_note/@andriluka_monocular_2010.md",
+    "Reading_note/@Vesper2010998.md",
     "Reading_note/@JarrasséA framework to describe2012.md",
+    "Reading_note/@liu_recognizing_2018.md",
+    "3D pose estimation.md",
+    "When a person acts alone, their behavior is very different than when they're not.md",
+    "To understand interaction in group.md",
+    "Reading_note/@2012Recognizing Human Actions.md",
+    "joint action架構Sebanz.md",
+    "關於joint action可能的順序模式.md",
     "HRC contents.md",
     "How to write Introduction.md",
     "How do you cite a source that cites another source.md",
     "Joint Action.md",
     "robot coordinate human.md",
-    "Reading_note/@HoffmanAnticipatory perceptual simulation2008.md",
-    "To understand interaction in group.md",
-    "Reading_note/@iqbalHumanRobotTeamingApproaches2019.md",
-    "Reading_note/@2012IEEEApplied2012.md",
-    "Contents.md",
-    "Dynamical Modeling of Groups.md",
     "$/Borber.md",
-    "Reading_note/Contents.md",
     "ARCHIVE",
     "$/Zotero.md",
-    "$/Dataview.md",
-    "$/Mermaid.md",
-    "$/table.md",
-    "Untitled 1.md",
     "Reading_note",
     "$",
     "template"

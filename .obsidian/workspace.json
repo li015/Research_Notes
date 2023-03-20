@@ -4,57 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1269e59a2cece410",
+        "id": "82b6c7fd3df56cf1",
         "type": "tabs",
         "children": [
           {
-            "id": "4a9f4a250faa3eb7",
+            "id": "4a66e3a6e74bba74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "When a person acts alone, their behavior is very different than when they're not.md",
+                "file": "robot coordinate human.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "0a24182af848b8c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37f15c8ea96102d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Structural Equation Modeling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f3e1fd1c377d85a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#liter_rivw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 353
   },
   "right": {
     "id": "0d7328c8a4a7b6a3",
@@ -120,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Structural Equation Modeling.md",
+                "file": "robot coordinate human.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Structural Equation Modeling.md",
+                "file": "robot coordinate human.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Structural Equation Modeling.md"
+                "file": "robot coordinate human.md"
               }
             }
           },
@@ -176,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,38 +152,42 @@
       "command-palette:Open command palette": false,
       "templates:Insert template": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-gallery:Gallery": false
     }
   },
-  "active": "5f3e1fd1c377d85a",
+  "active": "4a66e3a6e74bba74",
   "lastOpenFiles": [
-    "Untitled.md",
     "Structural Equation Modeling.md",
+    "To understand interaction in group.md",
+    "When a person acts alone, their behavior is very different than when they're not.md",
+    "Resources/20230316_164709_1.md",
+    "Resources/20230317_120409.jpg",
+    "Reading_note/@LiuFengZhi＿應用於辦公室情境之人機互動2013.md",
+    "Reading_note/@andriluka_monocular_2010.md",
+    "$/Borber.md",
+    "$/Dataview.md",
+    "Reading_note/@Lu_Implementation of pre-engagement detection2020.md",
     "Reading_note/Contents.md",
-    "Reading_note/@KnoblichAction coordination in groups20031006.md",
+    "Reading_note/HRC comparative.md",
+    "Reading_note/@zhangIntegratedHumanMachineIntelligence2022.md",
+    "Reading_note/@JarrasséA framework to describe2012.md",
+    "Reading_note/@Vesper2010998.md",
     "Reading_note/@SebanzPrediction in joint action2009353.md",
+    "Reading_note/@Ong2008167.md",
+    "Reading_note/@liu_recognizing_2018.md",
+    "Reading_note/@KnoblichAction coordination in groups20031006.md",
     "Reading_note/@iqbalHumanRobotTeamingApproaches2019.md",
     "Reading_note/@HoffmanAnticipatory perceptual simulation2008.md",
-    "Contents.md",
-    "Dynamical Modeling of Groups.md",
-    "Reading_note/@andriluka_monocular_2010.md",
-    "Reading_note/@Vesper2010998.md",
-    "Reading_note/@JarrasséA framework to describe2012.md",
-    "Reading_note/@liu_recognizing_2018.md",
-    "3D pose estimation.md",
-    "When a person acts alone, their behavior is very different than when they're not.md",
-    "To understand interaction in group.md",
-    "Reading_note/@2012Recognizing Human Actions.md",
-    "joint action架構Sebanz.md",
-    "關於joint action可能的順序模式.md",
-    "HRC contents.md",
-    "How to write Introduction.md",
-    "How do you cite a source that cites another source.md",
-    "Joint Action.md",
-    "robot coordinate human.md",
-    "$/Borber.md",
-    "ARCHIVE",
+    "Reading_note/@13thEastAsiaPacific2013.md",
+    "$/HRC_Review.md",
+    "$/table.md",
+    "$/Mermaid.md",
+    "Reading_note/@liang_HumanRobotCollaboration2021.md",
+    "Resources/20230316_164709.jpg",
     "$/Zotero.md",
+    "Resources",
+    "ARCHIVE",
     "Reading_note",
     "$",
     "template"

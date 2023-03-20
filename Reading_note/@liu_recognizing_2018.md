@@ -4,7 +4,8 @@ authors: Mengyuan Liu, Junsong Yuan
 year: 2018
 DOI: 10.1109/CVPR.2018.00127
 ---
-
+#method 
+[Last_modified : : `$= dv.current().file.mtime`.]
 [Notes::
 the meaning of pose estimation maps:
 	 pose estimation maps provide richer cues for inferring body parts and their movements, which makes them useful for recognizing human actions from videos

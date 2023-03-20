@@ -4,7 +4,7 @@ authors: Tariq Iqbal, Laurel D. Riek
 year: 2019
 DOI: 10.1007/978-94-007-6046-2_137
 ---
-
+[Last_modified : : `$= dv.current().file.mtime`.]
 #joint_action
 #Dynamical_system
 [ Contents ::

@@ -4,12 +4,10 @@ authors: Ci-Jyun Liang, Xi Wang, Vineet R. Kamat, Carol C. Menassa
 year: 2021
 DOI: 10.1061/(asce)co.1943-7862.0002154
 ---
-#liter_rivw
-```toc
-```
+[Domain:: [[Construction robots]]]
+#lit-review 
 
-
-- single-task construction robots have been developed for specific construction tasks and have been deployed on factory-like construction sites [^1] . 
+- single-task [[construction robots]] have been developed for specific construction tasks and have been deployed on factory-like construction sites [^1] . 
 - However, the development of such robots has been limited and they have not been broadly employed on real construction sites due to the limitations of the hardware, the quality of the robot actuators, and, importantly, the nature of the unstructured working environments ([^2];[^3];[^4]).
 -  recognizing the relevant state-of-the-art research in the construction discipline, categorizing prior and ongoing work into a logical and encompassing taxonomy
 - Everett and Slocum [^5]
@@ -55,7 +53,7 @@ finishing robots, which conduct tasks such as welding, material laying, and pain
 —i.e., using sensor feedback to control the excavator or construction equipment.
 
 - **controlling and motion-planning**
-analyzes the mathematical model of construction robots for controlling and motion-planning purposes
+analyzes the mathematical model of [[construction robots]] for controlling and motion-planning purposes
 
 - **obstacle avoidance**
 

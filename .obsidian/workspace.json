@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "82b6c7fd3df56cf1",
+        "id": "50abd2a5464ac8bc",
         "type": "tabs",
         "children": [
           {
-            "id": "4a66e3a6e74bba74",
+            "id": "27927bc5091fba7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robot coordinate human.md",
+                "file": "Reading_note/@wu_survey on teaching workplace_2022.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#liter_rivw",
+                "query": "tag:#HMM",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353
+    "width": 200
   },
   "right": {
     "id": "0d7328c8a4a7b6a3",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robot coordinate human.md",
+                "file": "Reading_note/@wu_survey on teaching workplace_2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robot coordinate human.md",
+                "file": "Reading_note/@wu_survey on teaching workplace_2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robot coordinate human.md"
+                "file": "Reading_note/@wu_survey on teaching workplace_2022.md"
               }
             }
           },
@@ -145,6 +145,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-gallery:Gallery": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -152,40 +153,41 @@
       "command-palette:Open command palette": false,
       "templates:Insert template": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-gallery:Gallery": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4a66e3a6e74bba74",
+  "active": "27927bc5091fba7f",
   "lastOpenFiles": [
-    "Structural Equation Modeling.md",
-    "To understand interaction in group.md",
-    "When a person acts alone, their behavior is very different than when they're not.md",
-    "Resources/20230316_164709_1.md",
-    "Resources/20230317_120409.jpg",
-    "Reading_note/@LiuFengZhi＿應用於辦公室情境之人機互動2013.md",
-    "Reading_note/@andriluka_monocular_2010.md",
-    "$/Borber.md",
-    "$/Dataview.md",
-    "Reading_note/@Lu_Implementation of pre-engagement detection2020.md",
-    "Reading_note/Contents.md",
-    "Reading_note/HRC comparative.md",
-    "Reading_note/@zhangIntegratedHumanMachineIntelligence2022.md",
-    "Reading_note/@JarrasséA framework to describe2012.md",
-    "Reading_note/@Vesper2010998.md",
-    "Reading_note/@SebanzPrediction in joint action2009353.md",
-    "Reading_note/@Ong2008167.md",
-    "Reading_note/@liu_recognizing_2018.md",
-    "Reading_note/@KnoblichAction coordination in groups20031006.md",
     "Reading_note/@iqbalHumanRobotTeamingApproaches2019.md",
-    "Reading_note/@HoffmanAnticipatory perceptual simulation2008.md",
-    "Reading_note/@13thEastAsiaPacific2013.md",
-    "$/HRC_Review.md",
-    "$/table.md",
-    "$/Mermaid.md",
-    "Reading_note/@liang_HumanRobotCollaboration2021.md",
+    "Reading_note/@wu_survey on teaching workplace_2022.md",
+    "Reading_note/@kim_development_2021.md",
+    "Reading_note/@ding_bim-based_2020.md",
+    "robot coordinate human.md",
+    "learning from observation methods.md",
+    "Reading_note/@kroemer_review_2019.md",
+    "Reading_note/@liu_imitation_2018.md",
+    "Approaches of activity understanding for construction robot task planning.md",
+    "Knowledge-based reasoning method.md",
+    "Reading_note/@ramirez-amaro_transferring_2017.md",
+    "LfD-Learning methods.md",
+    "Reward learning method.md",
+    "Policy learning method.md",
+    "Statistical methods.md",
+    "LfD.md",
+    "Reading_note/@tenorth_representations_2017.md",
+    "Semantic graph method.md",
+    "Reading_note/@paulius_functional_2016.md",
+    "Syntactic method.md",
+    "Reading_note/@yang_manipulation_2015.md",
+    "Reading_note/@aksoy_learning_2011.md",
+    "Human-based reasoning.md",
+    "joint action架構Sebanz.md",
+    "motor skills.md",
+    "Skill components.md",
+    "Resources/截圖 2023-03-23 上午11.26.37.png",
+    "Resources/截圖 2023-03-20 下午10.25.02.png",
+    "Resources/20230317_120409.jpg",
     "Resources/20230316_164709.jpg",
-    "$/Zotero.md",
     "Resources",
     "ARCHIVE",
     "Reading_note",

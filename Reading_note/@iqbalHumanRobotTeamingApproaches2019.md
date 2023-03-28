@@ -8,7 +8,7 @@ DOI: 10.1007/978-94-007-6046-2_137
 #joint_action
 #Dynamical_system
 [ Contents ::
- - Approaches from Cognitive Science to Model [[Joint Action]]
+ - Approaches from [[Cognitive]] Science to Model [[Joint Action]]
  - [[Dynamical Modeling of Groups]]
  - Proximate Human-Robot Teaming
  - Human-Robot Handovers

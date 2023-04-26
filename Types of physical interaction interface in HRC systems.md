@@ -1,20 +1,16 @@
 ---
-Create_time : 2023-03-09 17:34
-Alias : Concept
+Create_time : 2023-04-21 15:09
+Alias : 
 Unsolved : V
 ---
 [Cite ::  ]
 [Last_modified : : `$= dv.current().file.mtime`.]
-##### [notes :: 
-
+##### [notes ::   
+manual device
+teleoperation interface
+VR/AR interface
+laser pointer/ sensor
 ]
-
-- **[隨時筆記:: ]**
-	- [ ]
-	> 
-
-- **[文獻筆記 :: ]**
-	- [x]
 
 - **[永久筆記 :: ]**
 	

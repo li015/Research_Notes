@@ -1,20 +1,12 @@
 ---
-Create_time : 2023-03-09 17:34
-Alias : Concept
+Create_time : 2023-03-20 13:05
+Alias : 
 Unsolved : V
 ---
-[Cite ::  ]
+[Cite :: [[@zhangIntegratedHumanMachineIntelligence2022]]]
 [Last_modified : : `$= dv.current().file.mtime`.]
 ##### [notes :: 
-
-]
-
-- **[隨時筆記:: ]**
-	- [ ]
-	> 
-
-- **[文獻筆記 :: ]**
-	- [x]
+The interface and communication protocols between AI and professionals, as well as safety issues and psychological impact on human co-workers, are unclear.  ]
 
 - **[永久筆記 :: ]**
 	

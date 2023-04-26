@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "50abd2a5464ac8bc",
+        "id": "4d6939b0b5b1ddd1",
         "type": "tabs",
         "children": [
           {
-            "id": "27927bc5091fba7f",
+            "id": "64434991794d9e7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading_note/@wu_survey on teaching workplace_2022.md",
+                "file": "自然的 coordinate with people.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3916bc97c170a1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "機器人如何評估已完成工作進度.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2017d6424382295",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "從HHI找有效的提示.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 269.5
   },
   "right": {
     "id": "0d7328c8a4a7b6a3",
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading_note/@wu_survey on teaching workplace_2022.md",
+                "file": "機器人如何評估已完成工作進度.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reading_note/@wu_survey on teaching workplace_2022.md",
+                "file": "機器人如何評估已完成工作進度.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reading_note/@wu_survey on teaching workplace_2022.md"
+                "file": "機器人如何評估已完成工作進度.md"
               }
             }
           },
@@ -156,34 +181,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "27927bc5091fba7f",
+  "active": "f3916bc97c170a1b",
   "lastOpenFiles": [
+    "自然的 coordinate with people.md",
+    "機器人如何評估已完成工作進度.md",
+    "從HHI找有效的提示.md",
+    "Reading_note/@shah_empirical_2010.md",
+    "HRC in on-site construction.md",
+    "Construction robots.md",
+    "Cognitive.md",
+    "classifying barriers to data collection.md",
+    "potential challenges of HRC application in on-site construction.md",
+    "Types of physical interaction interface in HRC systems.md",
+    "Types of human–robot initiative communication methods in HRC systems.md",
+    "When a person acts alone, their behavior is very different than when they're not.md",
+    "To understand interaction in group.md",
     "Reading_note/@iqbalHumanRobotTeamingApproaches2019.md",
-    "Reading_note/@wu_survey on teaching workplace_2022.md",
-    "Reading_note/@kim_development_2021.md",
-    "Reading_note/@ding_bim-based_2020.md",
-    "robot coordinate human.md",
-    "learning from observation methods.md",
-    "Reading_note/@kroemer_review_2019.md",
-    "Reading_note/@liu_imitation_2018.md",
-    "Approaches of activity understanding for construction robot task planning.md",
-    "Knowledge-based reasoning method.md",
-    "Reading_note/@ramirez-amaro_transferring_2017.md",
-    "LfD-Learning methods.md",
+    "Eternal/Fluency robot coordinate human.md",
+    "Eternal/Approaches of activity understanding for construction robot task planning.md",
+    "Reading_note/@JarrasséA framework to describe2012.md",
+    "Syntactic method.md",
+    "Structural Equation Modeling.md",
+    "Statistical methods.md",
+    "Skill components.md",
+    "Semantic graph method.md",
+    "robot task planning.md",
+    "Reading_note/@HoffmanAnticipatory perceptual simulation2008.md",
     "Reward learning method.md",
     "Policy learning method.md",
-    "Statistical methods.md",
-    "LfD.md",
-    "Reading_note/@tenorth_representations_2017.md",
-    "Semantic graph method.md",
-    "Reading_note/@paulius_functional_2016.md",
-    "Syntactic method.md",
-    "Reading_note/@yang_manipulation_2015.md",
-    "Reading_note/@aksoy_learning_2011.md",
-    "Human-based reasoning.md",
-    "joint action架構Sebanz.md",
-    "motor skills.md",
-    "Skill components.md",
+    "Eternal",
     "Resources/截圖 2023-03-23 上午11.26.37.png",
     "Resources/截圖 2023-03-20 下午10.25.02.png",
     "Resources/20230317_120409.jpg",

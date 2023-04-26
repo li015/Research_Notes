@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path:Eternal",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -15,28 +15,14 @@
       }
     },
     {
-      "query": "path:$",
-      "color": {
-        "a": 1,
-        "rgb": 13092807
-      }
-    },
-    {
-      "query": "path:/",
+      "query": "path:Eternal",
       "color": {
         "a": 1,
         "rgb": 11657298
       }
-    },
-    {
-      "query": "path:ARCHIVE",
-      "color": {
-        "a": 1,
-        "rgb": 1250064
-      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -0.1,
   "nodeSizeMultiplier": 1.04347330729167,
@@ -46,6 +32,6 @@
   "repelStrength": 9.33203125,
   "linkStrength": 1,
   "linkDistance": 163,
-  "scale": 2.0567630860118635,
+  "scale": 1.5909619941580404,
   "close": true
 }

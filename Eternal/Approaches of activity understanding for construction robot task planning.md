@@ -28,7 +28,8 @@ Robot dependent
 			-
 		
 		- [ ] **延伸**
-			- 
+			- [[robot task planning]]
+			- [[activity understanding]]
 		
 		- [ ] **反之**
 			-

@@ -1,20 +1,17 @@
 ---
-Create_time : 2023-03-09 17:34
-Alias : Concept
+Create_time : 2023-04-21 14:46
+Alias : 
 Unsolved : V
 ---
-[Cite ::  ]
+[Cite :: [[@zhang_humanrobot_2023]] ]
 [Last_modified : : `$= dv.current().file.mtime`.]
-##### [notes :: 
-
+##### [notes ::  
+Gesture command
+Voice command
+Gaze command
+Bio-signal command
+Vision-based proactive command
 ]
-
-- **[隨時筆記:: ]**
-	- [ ]
-	> 
-
-- **[文獻筆記 :: ]**
-	- [x]
 
 - **[永久筆記 :: ]**
 	

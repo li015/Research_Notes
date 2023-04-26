@@ -1,11 +1,16 @@
 ---
-Create_time : 2023-03-20 13:05
+Create_time : 2023-04-21 14:35
 Alias : 
 Unsolved : V
 ---
-[Cite :: [[@zhangIntegratedHumanMachineIntelligence2022]]]
+[Cite ::  [[@zhang_humanrobot_2023]]]
 [Last_modified : : `$= dv.current().file.mtime`.]
-##### [notes :: The interface and communication protocols between AI and professionals, as well as safety issues and psychological impact on human co-workers, are unclear.  ]
+##### [notes ::   
+lead-through programming
+Off-line programming and pre-programming
+Walk-through programming
+Programming by demonstration
+]
 
 - **[永久筆記 :: ]**
 	

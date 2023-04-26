@@ -5,7 +5,8 @@ Unsolved : V
 ---
 [Cite :: [[@zhangIntegratedHumanMachineIntelligence2022]] ]
 [Last_modified : : `$= dv.current().file.mtime`.]
-##### [notes :: AI and how to configure the collaboration between AI and humans in decision-making, leading to research questions related to characterizing AI-adaptable tasks, identifying non-AI-assistable tasks, and utilizing developed AIs for complex decision-making.   ]
+##### [notes :: 
+AI and how to configure the collaboration between AI and humans in decision-making, leading to research questions related to characterizing AI-adaptable tasks, identifying non-AI-assistable tasks, and utilizing developed AIs for complex decision-making.   ]
 
 - **[永久筆記 :: ]**
 	

@@ -1,7 +1,7 @@
 ---
 Create_time : 2023-03-15 15:02
 Alias : thought
-Unsolved : V
+Unsolved : 
 ---
 [Cite :: [[@andriluka_monocular_2010]] ]
 [Last_modified : : `$= dv.current().file.mtime`.]

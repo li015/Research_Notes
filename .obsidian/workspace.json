@@ -4,42 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4d6939b0b5b1ddd1",
+        "id": "6c1725c026fce7fa",
         "type": "tabs",
         "children": [
           {
-            "id": "64434991794d9e7f",
+            "id": "af48b053847ce663",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "自然的 coordinate with people.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "f3916bc97c170a1b",
+            "id": "4bd79edf369ba424",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "機器人如何評估已完成工作進度.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2017d6424382295",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "從HHI找有效的提示.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.3.4"
               }
             }
           }
@@ -89,6 +71,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "3c3bbde2211a27e1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -110,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "機器人如何評估已完成工作進度.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "機器人如何評估已完成工作進度.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "機器人如何評估已完成工作進度.md"
-              }
+              "state": {}
             }
           },
           {
@@ -181,9 +167,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f3916bc97c170a1b",
+  "active": "4bd79edf369ba424",
   "lastOpenFiles": [
     "自然的 coordinate with people.md",
+    "中央極限定理需要多少樣本.md",
+    "Trust, transparency, equity and accountability of IHMI.md",
+    "Use case of IHMI to support decision making.md",
+    "Explainable AI in CE..md",
+    "Human-AI interaction design.md",
+    "Human-in-the-loop ML.md",
+    "To understand interaction in group.md",
+    "Types of physical interaction interface in HRC systems.md",
+    "When a person acts alone, their behavior is very different than when they're not.md",
+    "Eternal/HRC relationship.md",
     "機器人如何評估已完成工作進度.md",
     "從HHI找有效的提示.md",
     "Reading_note/@shah_empirical_2010.md",
@@ -192,23 +188,13 @@
     "Cognitive.md",
     "classifying barriers to data collection.md",
     "potential challenges of HRC application in on-site construction.md",
-    "Types of physical interaction interface in HRC systems.md",
     "Types of human–robot initiative communication methods in HRC systems.md",
-    "When a person acts alone, their behavior is very different than when they're not.md",
-    "To understand interaction in group.md",
     "Reading_note/@iqbalHumanRobotTeamingApproaches2019.md",
     "Eternal/Fluency robot coordinate human.md",
     "Eternal/Approaches of activity understanding for construction robot task planning.md",
     "Reading_note/@JarrasséA framework to describe2012.md",
     "Syntactic method.md",
     "Structural Equation Modeling.md",
-    "Statistical methods.md",
-    "Skill components.md",
-    "Semantic graph method.md",
-    "robot task planning.md",
-    "Reading_note/@HoffmanAnticipatory perceptual simulation2008.md",
-    "Reward learning method.md",
-    "Policy learning method.md",
     "Eternal",
     "Resources/截圖 2023-03-23 上午11.26.37.png",
     "Resources/截圖 2023-03-20 下午10.25.02.png",

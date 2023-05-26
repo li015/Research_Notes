@@ -2,8 +2,8 @@
   "citationExportFormat": "biblatex",
   "literatureNoteTitleTemplate": "@{{citekey}}",
   "literatureNoteFolder": "Reading_note",
-  "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\nDOI: {{DOI}}\n---\n\n",
+  "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\nDOI: {{DOI}}\nCreate_time : {{date:YYYY-MM-DD}} {{time:HH:mm}}\n---\n\n",
   "markdownCitationTemplate": "[@{{citekey}}]",
   "alternativeMarkdownCitationTemplate": "@{{citekey}}",
-  "citationExportPath": "/Volumes/WIP/library/Lib.bib"
+  "citationExportPath": "D:\\Lib\\library.bib"
 }

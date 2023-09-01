@@ -2,6 +2,7 @@
 Create_time : {{date:YYYY-MM-DD}} {{time:HH:mm}}
 Alias : 
 Unsolved : V
+annotation-target:
 ---
 [Cite ::  ]
 [Last_modified : : `$= dv.current().file.mtime`.]

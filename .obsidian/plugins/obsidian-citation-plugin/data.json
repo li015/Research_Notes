@@ -5,5 +5,5 @@
   "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\nDOI: {{DOI}}\nCreate_time : {{date:YYYY-MM-DD}} {{time:HH:mm}}\n---\n\n",
   "markdownCitationTemplate": "[@{{citekey}}]",
   "alternativeMarkdownCitationTemplate": "@{{citekey}}",
-  "citationExportPath": "D:\\Lib\\library.bib"
+  "citationExportPath": ""
 }

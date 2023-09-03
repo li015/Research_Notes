@@ -1,8 +1,9 @@
 [
-  "obsidian-citation-plugin",
   "dataview",
   "obsidian-excalidraw-plugin",
   "table-editor-obsidian",
   "obsidian-gallery",
-  "obsidian-annotator"
+  "obsidian-annotator",
+  "obsidian-citation-plugin",
+  "dbfolder"
 ]

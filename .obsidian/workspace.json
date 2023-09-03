@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "385851af3c452aa9",
+        "id": "9f2f436adb900dd8",
         "type": "tabs",
         "children": [
           {
-            "id": "7c030efb1ffeaffc",
+            "id": "494061a7ccea33a6",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "database-plugin",
               "state": {
-                "file": "EGICE2023.pdf.md"
+                "file": "Second brain/conference.md"
               }
             }
           }
@@ -75,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "0d7328c8a4a7b6a3",
@@ -92,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EGICE2023.pdf.md",
+                "file": "Second brain/conference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EGICE2023.pdf.md",
+                "file": "Second brain/conference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EGICE2023.pdf.md"
+                "file": "Second brain/conference.md"
               }
             }
           },
@@ -148,12 +147,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-gallery:Gallery": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -161,42 +158,45 @@
       "command-palette:Open command palette": false,
       "templates:Insert template": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-gallery:Gallery": false,
+      "dbfolder:Create a new database table": false
     }
   },
-  "active": "7c030efb1ffeaffc",
+  "active": "494061a7ccea33a6",
   "lastOpenFiles": [
+    "Second brain/2024EC3.md",
+    "Second brain/ISARC.md",
+    "Second brain/Towards democratization of digital twins_  Design principles for transformation into a human-building interface.md",
+    "Second brain/ICCEPM.md",
+    "Second brain/ICCCBE 2024.md",
+    "Second brain/i3ce2024.md",
+    "Second brain/Introduction to Complex System.md",
+    "Second brain/conference.md",
+    "2023-09-03.md",
+    "Second brain/The Rise of AI in Construction.md",
+    "Resources/20230316_164709.jpg",
+    "'Contents.md",
+    "Second brain/test.md",
+    "機器人如何評估已完成工作進度.md",
+    "Act like notion.md",
+    "Second brain",
+    "從HHI找有效的提示.md",
+    "自然的 coordinate with people.md",
+    "中央極限定理需要多少樣本.md",
+    "Explainable AI in CE..md",
     "EGICE2023.pdf.md",
+    "Dynamical Modeling of Groups.md",
     "Eternal/關於joint action可能的順序模式.md",
     "Geometric Deep LearningGrids, Groups, Graphs,Geodesics, and Gauges.md",
     "E 1.md",
     "$/Borber.md",
     "Task allocation in HRC system.md",
     "Reading_note/@liau_task_2020.md",
-    "自然的 coordinate with people.md",
-    "中央極限定理需要多少樣本.md",
-    "Trust, transparency, equity and accountability of IHMI.md",
-    "Use case of IHMI to support decision making.md",
-    "Explainable AI in CE..md",
-    "Human-AI interaction design.md",
-    "Human-in-the-loop ML.md",
-    "To understand interaction in group.md",
-    "Types of physical interaction interface in HRC systems.md",
-    "When a person acts alone, their behavior is very different than when they're not.md",
-    "Eternal/HRC relationship.md",
-    "機器人如何評估已完成工作進度.md",
-    "從HHI找有效的提示.md",
-    "Reading_note/@shah_empirical_2010.md",
-    "HRC in on-site construction.md",
-    "Construction robots.md",
-    "Cognitive.md",
-    "classifying barriers to data collection.md",
-    "potential challenges of HRC application in on-site construction.md",
     "Eternal",
     "Resources/截圖 2023-03-23 上午11.26.37.png",
     "Resources/截圖 2023-03-20 下午10.25.02.png",
     "Resources/20230317_120409.jpg",
-    "Resources/20230316_164709.jpg",
     "Resources",
     "ARCHIVE",
     "Reading_note",

@@ -11,13 +11,62 @@
             "id": "494061a7ccea33a6",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "Second brain/conference.md"
+                "file": "From App & File Silos to Transparent Cloud Data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22906df2d69b637e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WORD批次列印PDF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8c51f6cefeb821a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.11"
+              }
+            }
+          },
+          {
+            "id": "fc98727e01a12677",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "怎樣把excel和word中的資料關聯起來？.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "150decd6abe0722f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WORD批次列印PDF.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second brain/conference.md",
+                "file": "WORD批次列印PDF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second brain/conference.md",
+                "file": "WORD批次列印PDF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second brain/conference.md"
+                "file": "WORD批次列印PDF.md"
               }
             }
           },
@@ -142,12 +191,23 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "05f0d2228ba9f789",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,8 +223,18 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "494061a7ccea33a6",
+  "active": "e8c51f6cefeb821a",
   "lastOpenFiles": [
+    "INDEX+MATCH函數.md",
+    "WORD批次列印PDF.md",
+    "怎樣把excel和word中的資料關聯起來？.md",
+    "From App & File Silos to Transparent Cloud Data.md",
+    "Resources/截圖 2023-03-20 下午10.25.02.png",
+    "Resources/螢幕擷取畫面 2023-09-05 125841.png",
+    "中央極限定理需要多少樣本.md",
+    "Second brain/conference.md",
+    "Second brain/Deeplearning course.md",
+    "Second brain/DBMS.md",
     "Second brain/2024EC3.md",
     "Second brain/ISARC.md",
     "Second brain/Towards democratization of digital twins_  Design principles for transformation into a human-building interface.md",
@@ -172,7 +242,6 @@
     "Second brain/ICCCBE 2024.md",
     "Second brain/i3ce2024.md",
     "Second brain/Introduction to Complex System.md",
-    "Second brain/conference.md",
     "2023-09-03.md",
     "Second brain/The Rise of AI in Construction.md",
     "Resources/20230316_164709.jpg",
@@ -183,19 +252,11 @@
     "Second brain",
     "從HHI找有效的提示.md",
     "自然的 coordinate with people.md",
-    "中央極限定理需要多少樣本.md",
     "Explainable AI in CE..md",
     "EGICE2023.pdf.md",
     "Dynamical Modeling of Groups.md",
-    "Eternal/關於joint action可能的順序模式.md",
-    "Geometric Deep LearningGrids, Groups, Graphs,Geodesics, and Gauges.md",
-    "E 1.md",
-    "$/Borber.md",
-    "Task allocation in HRC system.md",
-    "Reading_note/@liau_task_2020.md",
     "Eternal",
     "Resources/截圖 2023-03-23 上午11.26.37.png",
-    "Resources/截圖 2023-03-20 下午10.25.02.png",
     "Resources/20230317_120409.jpg",
     "Resources",
     "ARCHIVE",

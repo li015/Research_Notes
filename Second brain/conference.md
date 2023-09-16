@@ -177,8 +177,8 @@ config:
   source_destination_path: /
   row_templates_folder: /
   current_row_template: 
-  pagination_size: 10
-  font_size: 16
+  pagination_size: 30
+  font_size: 17
   enable_js_formulas: false
   formula_folder_path: /
   inline_default: false

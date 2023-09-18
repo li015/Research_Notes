@@ -18,7 +18,7 @@ columns:
     skipPersist: false
     isDragDisabled: false
     csvCandidate: true
-    position: 2
+    position: 1
     isHidden: false
     sortIndex: -1
     width: 77
@@ -51,100 +51,33 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  __tasks__:
-    key: __tasks__
-    id: __tasks__
-    input: task
-    label: Task
-    accessorKey: __tasks__
-    isMetadata: true
-    isDragDisabled: false
-    skipPersist: false
-    csvCandidate: false
-    position: 4
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  __inlinks__:
-    key: __inlinks__
-    id: __inlinks__
-    input: inlinks
-    label: Inlinks
-    accessorKey: __inlinks__
-    isMetadata: true
-    isDragDisabled: false
-    skipPersist: false
-    csvCandidate: false
-    position: 5
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  __outlinks__:
-    key: __outlinks__
-    id: __outlinks__
-    input: outlinks
-    label: Outlinks
-    accessorKey: __outlinks__
-    isMetadata: true
-    isDragDisabled: false
-    skipPersist: false
-    csvCandidate: false
-    position: 6
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  __tags__:
-    key: __tags__
-    id: __tags__
-    input: metadata_tags
-    label: File Tags
-    accessorKey: __tags__
-    isMetadata: true
-    isDragDisabled: false
-    skipPersist: false
-    csvCandidate: false
-    position: 7
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  Date:
+  Abstract:
     input: calendar
-    accessorKey: Date
-    key: Date
-    id: Date
-    label: Date
+    accessorKey: Abstract
+    key: Abstract
+    id: Abstract
+    label: Abstract
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: 1
+    isSorted: true
+    isSortedDesc: false
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Paper:
+    input: calendar
+    accessorKey: Paper
+    key: Paper
+    id: Paper
+    label: Paper
     position: 100
     skipPersist: false
     isHidden: false
@@ -168,10 +101,10 @@ config:
   hoist_files_with_empty_attributes: true
   show_metadata_created: false
   show_metadata_modified: false
-  show_metadata_tasks: true
-  show_metadata_inlinks: true
-  show_metadata_outlinks: true
-  show_metadata_tags: true
+  show_metadata_tasks: false
+  show_metadata_inlinks: false
+  show_metadata_outlinks: false
+  show_metadata_tags: false
   source_data: current_folder
   source_form_result: 
   source_destination_path: /

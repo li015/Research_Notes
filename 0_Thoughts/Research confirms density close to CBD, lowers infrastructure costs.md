@@ -4,9 +4,9 @@ aliases: []
 Unsolved: V
 annotation-target:
 ---
-[Cite ::  ]
+[Cite :: https://www.nsw.gov.au/media-releases/research-confirms-density-close-to-cbd-lowers-costs ]
 [Last_modified : : `$= dv.current().file.mtime`.]
-##### [notes ::   ]
+##### [notes ::  
 概要
 🏡 新南威爾士州生產力委員會最新報告確認了政府在住房政策上的正確方向，特別是建在已有基礎設施的地區成本更低。政府將繼續通過改革基礎設施投入來支持住房增長。
 
@@ -21,7 +21,7 @@ annotation-target:
 🏙️ 更多填充式開發意味著人們可以在不同生活階段留在他們的社區和附近。
 🏗️ 政府改革了基礎設施投入，以彌合住房增長和支持該增長所需基礎設施之間的差距。
 🛣️ 生產力委員會指出，建立在已經擁有良好道路、學校、醫療服務和開放空間以及現有水和廢水服務的建成郊區更有道理，因此在這些地方增加密度更有意義。
-
+ ]
 - **[永久筆記 :: ]**
 	
 	- [x]
@@ -36,15 +36,10 @@ annotation-target:
 		
 		- [ ] **反之**
 			-
-		
-
-
 ### 歸檔 
 	-  [ ]
 	-  #
 
 ### 索引
-	-
-	-
-	-
-	
+	 [[住房政策]]
+

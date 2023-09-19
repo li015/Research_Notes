@@ -18,7 +18,7 @@ columns:
     skipPersist: false
     isDragDisabled: false
     csvCandidate: true
-    position: 2
+    position: 1
     isHidden: false
     sortIndex: -1
     width: 77
@@ -37,7 +37,7 @@ columns:
     key: link
     id: link
     label: link
-    position: 3
+    position: 4
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -61,7 +61,7 @@ columns:
     isDragDisabled: false
     skipPersist: false
     csvCandidate: false
-    position: 4
+    position: 5
     isHidden: false
     sortIndex: -1
     config:
@@ -83,7 +83,7 @@ columns:
     isDragDisabled: false
     skipPersist: false
     csvCandidate: false
-    position: 5
+    position: 6
     isHidden: false
     sortIndex: -1
     config:
@@ -105,7 +105,7 @@ columns:
     isDragDisabled: false
     skipPersist: false
     csvCandidate: false
-    position: 6
+    position: 7
     isHidden: false
     sortIndex: -1
     config:
@@ -127,7 +127,7 @@ columns:
     isDragDisabled: false
     skipPersist: false
     csvCandidate: false
-    position: 7
+    position: 8
     isHidden: false
     sortIndex: -1
     config:
@@ -139,13 +139,32 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  Date:
+  Abstract_Submission:
     input: calendar
-    accessorKey: Date
-    key: Date
-    id: Date
-    label: Date
-    position: 100
+    accessorKey: Abstract_Submission
+    key: Abstract_Submission
+    id: Abstract_Submission
+    label: Abstract_Submission
+    position: 2
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Full_Paper_Submission:
+    input: calendar
+    accessorKey: Full_Paper_Submission
+    key: Full_Paper_Submission
+    id: Full_Paper_Submission
+    label: Full_Paper_Submission
+    position: 3
     skipPersist: false
     isHidden: false
     sortIndex: -1

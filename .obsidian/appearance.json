@@ -1,4 +1,8 @@
 {
-  "accentColor": "",
-  "baseFontSize": 17
+  "accentColor": "#7e9cce",
+  "baseFontSize": 17,
+  "enabledCssSnippets": [
+    "test"
+  ],
+  "theme": "system"
 }

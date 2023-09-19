@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ed26f8a109ae08df",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "Eternal/Untitled database.md"
-              }
-            }
-          },
-          {
             "id": "248c7563c92a3725",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "Second brain/conference.md"
+                "file": "Second brain/ICCCBE 2024.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second brain/conference.md",
+                "file": "Second brain/ICCCBE 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second brain/conference.md",
+                "file": "Second brain/ICCCBE 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second brain/conference.md"
+                "file": "Second brain/ICCCBE 2024.md"
               }
             }
           },
@@ -187,44 +178,46 @@
   },
   "active": "248c7563c92a3725",
   "lastOpenFiles": [
-    "Second brain/ICCCBE 2024.md",
-    "Second brain/ICCEPM.md",
-    "Second brain/i3ce2024.md",
-    "Second brain/Deeplearning course.md",
-    "Second brain/DBMS.md",
     "Second brain/conference.md",
-    "'Contents.md",
-    "Second brain/2024EC3.md",
-    "Second brain/Towards democratization of digital twins_  Design principles for transformation into a human-building interface.md",
-    "Second brain/The Rise of AI in Construction.md",
-    "Second brain/ISARC.md",
-    "Second brain/Introduction to Complex System.md",
-    "Eternal/Untitled database.md",
-    "Untitled.md",
+    "Second brain/dell.md",
+    "Second brain/0_conference.md",
+    "Resources/我的文獻庫.bib",
+    "Resources/Lib.bib",
+    "2_Eternal/關於joint action可能的順序模式.md",
+    "2_Eternal/Untitled database.md",
+    "2_Eternal/joint action in three parts.md",
+    "2_Eternal/HRC_Review.md",
+    "2_Eternal/HRC relationship.md",
+    "2_Eternal/Formalizing the interface between human and AI.md",
+    "2_Eternal/Fluency robot coordinate human.md",
+    "2_Eternal/Divide construction tasks.md",
+    "2_Eternal/Different interfaces for HRC robot programming.md",
+    "2_Eternal/Approaches of activity understanding for construction robot task planning.md",
+    "2_Eternal/defining  AI-adaptable, AI-assistable.md",
+    "2_Eternal/3D pose estimation.md",
+    "2_Eternal",
+    "1_Reading_note/HRC comparative.md",
+    "1_Reading_note/Contents.md",
+    "1_Reading_note/@zhang_humanrobot_2023.md",
+    "1_Reading_note/@zhangIntegratedHumanMachineIntelligence2022.md",
+    "1_Reading_note/@yang_manipulation_2015.md",
+    "1_Reading_note/@wu_survey on teaching workplace_2022.md",
+    "1_Reading_note/@tenorth_representations_2017.md",
+    "1_Reading_note/@shah_empirical_2010.md",
+    "1_Reading_note/@schnake-mahl_gentrification_2020.md",
+    "1_Reading_note/@saranli_modular_2011-1.md",
+    "1_Reading_note/@rosenbaum_acquisition_2001.md",
+    "1_Reading_note",
+    "0_Thoughts",
     "Untitled",
-    "INDEX+MATCH函數.md",
-    "WORD批次列印PDF.md",
-    "怎樣把excel和word中的資料關聯起來？.md",
-    "From App & File Silos to Transparent Cloud Data.md",
     "Resources/截圖 2023-03-20 下午10.25.02.png",
     "Resources/螢幕擷取畫面 2023-09-05 125841.png",
-    "中央極限定理需要多少樣本.md",
-    "2023-09-03.md",
     "Resources/20230316_164709.jpg",
-    "Second brain/test.md",
-    "機器人如何評估已完成工作進度.md",
-    "Act like notion.md",
     "Second brain",
-    "從HHI找有效的提示.md",
-    "自然的 coordinate with people.md",
-    "Explainable AI in CE..md",
     "Eternal",
     "Resources/截圖 2023-03-23 上午11.26.37.png",
     "Resources/20230317_120409.jpg",
     "Resources",
-    "ARCHIVE",
-    "Reading_note",
-    "$",
-    "template"
+    "ARCHIVE"
   ]
 }

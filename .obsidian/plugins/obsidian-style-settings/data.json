@@ -1,0 +1,15 @@
+{
+  "a-unique-id@@accent": "#5791D0",
+  "obsidian-default-theme@@opacity-translucency-light": 0.27,
+  "obsidian-default-theme@@opacity-translucency-dark": 0.78,
+  "obsidian-default-theme@@background-primary@@light": "#C6C6C6",
+  "obsidian-default-theme@@background-primary-alt@@light": "#CCCDCF",
+  "obsidian-default-theme@@background-secondary@@light": "#BBBBBB",
+  "obsidian-default-theme@@background-secondary-alt@@light": "#ADADAD",
+  "obsidian-default-theme@@text-normal@@light": "#02488E",
+  "obsidian-default-theme@@text-muted@@light": "#000000",
+  "obsidian-default-theme@@text-faint@@light": "#813D9B",
+  "obsidian-default-theme@@text-accent@@light": "#719957",
+  "obsidian-default-theme@@text-accent-hover@@light": "#236409",
+  "obsidian-default-theme@@text-selection@@light": "#9D9D9D"
+}

@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "12c9b9242877b1c6",
+        "id": "646331b196d57edd",
         "type": "tabs",
         "children": [
           {
-            "id": "248c7563c92a3725",
+            "id": "c0ef6e52e79d2537",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf-annotator",
               "state": {
-                "file": "Second brain/ICCCBE 2024.md",
-                "mode": "source",
-                "source": true
+                "file": "1_Reading_note/@keatingSitespecificSelfsufficientRobotic2017.md"
+              }
+            }
+          },
+          {
+            "id": "2b4b40c25442e071",
+            "type": "leaf",
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "swarm robotics.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d7328c8a4a7b6a3",
@@ -93,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second brain/ICCCBE 2024.md",
+                "file": "swarm robotics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second brain/ICCCBE 2024.md",
+                "file": "swarm robotics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second brain/ICCCBE 2024.md"
+                "file": "swarm robotics.md"
               }
             }
           },
@@ -159,7 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 352.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -176,37 +186,43 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "248c7563c92a3725",
+  "active": "2b4b40c25442e071",
   "lastOpenFiles": [
-    "Second brain/conference.md",
-    "Second brain/dell.md",
-    "Second brain/0_conference.md",
+    "1_Reading_note/@keatingSitespecificSelfsufficientRobotic2017.md",
+    "swarm robotics.md",
+    "Cooperative construction with machines.md",
+    "Grad-CAM 卷積可視化.md",
+    "HandBIM.md",
+    "Resources/螢幕擷取畫面 2023-09-13 105030.png",
+    "Resources/螢幕擷取畫面 2023-09-13 105807.png",
+    "1_Reading_note/@FlightAssembledArchitecture2014.md",
+    "Resources/Pasted image 20230919160434.png",
+    "Resources/Pasted image 20230919160423.png",
+    "1_Reading_note/@finio_measurement_2022.md",
+    "$/Borber.md",
+    "$/Dataview.md",
+    "$/How do you cite a source that cites another source.md",
+    "$/How to write Introduction.md",
+    "$/Mermaid.md",
+    "$/table.md",
+    "$/Zotero.md",
+    "1_Reading_note/@gharbia_robotic_2020.md",
+    "1_Reading_note/@Ong2008167.md",
+    "1_Reading_note/@ramirez-amaro_transferring_2017.md",
+    "1_Reading_note/@saranli_modular_2011-1.md",
+    "1_Reading_note/@schnake-mahl_gentrification_2020.md",
+    "1_Reading_note/@zhangIntegratedHumanMachineIntelligence2022.md",
+    "1_Reading_note/@zhangVirtualRealitySupported2021.md",
+    "1_Reading_note/@andriluka_monocular_2010.md",
+    "1_Reading_note/@aksoy_learning_2011.md",
+    "human-in-the-loop.md",
+    "human-in-the-loop simulation.md",
+    "human-in-the-loop planning.md",
+    "Excalidraw",
+    "Resources/Pasted image 20230919135610.png",
     "Resources/我的文獻庫.bib",
     "Resources/Lib.bib",
-    "2_Eternal/關於joint action可能的順序模式.md",
-    "2_Eternal/Untitled database.md",
-    "2_Eternal/joint action in three parts.md",
-    "2_Eternal/HRC_Review.md",
-    "2_Eternal/HRC relationship.md",
-    "2_Eternal/Formalizing the interface between human and AI.md",
-    "2_Eternal/Fluency robot coordinate human.md",
-    "2_Eternal/Divide construction tasks.md",
-    "2_Eternal/Different interfaces for HRC robot programming.md",
-    "2_Eternal/Approaches of activity understanding for construction robot task planning.md",
-    "2_Eternal/defining  AI-adaptable, AI-assistable.md",
-    "2_Eternal/3D pose estimation.md",
     "2_Eternal",
-    "1_Reading_note/HRC comparative.md",
-    "1_Reading_note/Contents.md",
-    "1_Reading_note/@zhang_humanrobot_2023.md",
-    "1_Reading_note/@zhangIntegratedHumanMachineIntelligence2022.md",
-    "1_Reading_note/@yang_manipulation_2015.md",
-    "1_Reading_note/@wu_survey on teaching workplace_2022.md",
-    "1_Reading_note/@tenorth_representations_2017.md",
-    "1_Reading_note/@shah_empirical_2010.md",
-    "1_Reading_note/@schnake-mahl_gentrification_2020.md",
-    "1_Reading_note/@saranli_modular_2011-1.md",
-    "1_Reading_note/@rosenbaum_acquisition_2001.md",
     "1_Reading_note",
     "0_Thoughts",
     "Untitled",
@@ -217,7 +233,6 @@
     "Eternal",
     "Resources/截圖 2023-03-23 上午11.26.37.png",
     "Resources/20230317_120409.jpg",
-    "Resources",
-    "ARCHIVE"
+    "Resources"
   ]
 }

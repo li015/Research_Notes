@@ -21,14 +21,27 @@
             "id": "2b4b40c25442e071",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "markdown",
               "state": {
-                "file": "swarm robotics.md"
+                "file": "Cooperative construction with machines.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "408523bbb55c592b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kinematic geometry of a rigid body.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 349.5
   },
   "right": {
     "id": "0d7328c8a4a7b6a3",
@@ -103,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "swarm robotics.md",
+                "file": "1_Reading_note/@keatingSitespecificSelfsufficientRobotic2017.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "swarm robotics.md",
+                "file": "1_Reading_note/@keatingSitespecificSelfsufficientRobotic2017.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "swarm robotics.md"
+                "file": "1_Reading_note/@keatingSitespecificSelfsufficientRobotic2017.md"
               }
             }
           },
@@ -186,15 +198,27 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "2b4b40c25442e071",
+  "active": "c0ef6e52e79d2537",
   "lastOpenFiles": [
-    "1_Reading_note/@keatingSitespecificSelfsufficientRobotic2017.md",
-    "swarm robotics.md",
     "Cooperative construction with machines.md",
-    "Grad-CAM 卷積可視化.md",
-    "HandBIM.md",
+    "kinematic geometry of a rigid body.md",
+    "Resources/Pasted image 20230922153432.png",
+    "human-in-the-loop.md",
+    "swarm robotics.md",
+    "Excalidraw/Drawing 2023-09-22 15.11.32.excalidraw.md",
+    "1_Reading_note/@keatingSitespecificSelfsufficientRobotic2017.md",
+    "Resources/Pasted image 20230922151425.png",
+    "Resources/Drawing 2023-09-19 14.01.06.excalidraw.md",
+    "Resources/Pasted image 20230919135610.png",
     "Resources/螢幕擷取畫面 2023-09-13 105030.png",
     "Resources/螢幕擷取畫面 2023-09-13 105807.png",
+    "Resources/截圖 2023-03-20 下午10.25.02.png",
+    "Resources/20230316_164709.jpg",
+    "human-in-the-loop simulation.md",
+    "Second brain/ICCCBE 2024.md",
+    "Second brain/0_conference.md",
+    "Grad-CAM 卷積可視化.md",
+    "HandBIM.md",
     "1_Reading_note/@FlightAssembledArchitecture2014.md",
     "Resources/Pasted image 20230919160434.png",
     "Resources/Pasted image 20230919160423.png",
@@ -210,29 +234,16 @@
     "1_Reading_note/@Ong2008167.md",
     "1_Reading_note/@ramirez-amaro_transferring_2017.md",
     "1_Reading_note/@saranli_modular_2011-1.md",
-    "1_Reading_note/@schnake-mahl_gentrification_2020.md",
-    "1_Reading_note/@zhangIntegratedHumanMachineIntelligence2022.md",
-    "1_Reading_note/@zhangVirtualRealitySupported2021.md",
-    "1_Reading_note/@andriluka_monocular_2010.md",
-    "1_Reading_note/@aksoy_learning_2011.md",
-    "human-in-the-loop.md",
-    "human-in-the-loop simulation.md",
-    "human-in-the-loop planning.md",
     "Excalidraw",
-    "Resources/Pasted image 20230919135610.png",
     "Resources/我的文獻庫.bib",
     "Resources/Lib.bib",
     "2_Eternal",
     "1_Reading_note",
     "0_Thoughts",
     "Untitled",
-    "Resources/截圖 2023-03-20 下午10.25.02.png",
     "Resources/螢幕擷取畫面 2023-09-05 125841.png",
-    "Resources/20230316_164709.jpg",
     "Second brain",
     "Eternal",
-    "Resources/截圖 2023-03-23 上午11.26.37.png",
-    "Resources/20230317_120409.jpg",
     "Resources"
   ]
 }

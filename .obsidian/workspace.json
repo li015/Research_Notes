@@ -8,40 +8,91 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c0ef6e52e79d2537",
-            "type": "leaf",
-            "state": {
-              "type": "pdf-annotator",
-              "state": {
-                "file": "1_Reading_note/@keatingSitespecificSelfsufficientRobotic2017.md"
-              }
-            }
-          },
-          {
-            "id": "2b4b40c25442e071",
+            "id": "48b38680b3ec6a32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cooperative construction with machines.md",
+                "file": "4_machinery to robotic on site HRC.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26e25800dfc069b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Second brain/Booklist Gooaye.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "442a41c5e609878b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Second brain/Booklist Gooaye.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "408523bbb55c592b",
+            "id": "21928eb4142723a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kinematic geometry of a rigid body.md",
+                "file": "Mobile BIM implementation and lean interaction on construction site_A case study of a complex airport project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e5c68500d816ea2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Smart work packaging-enabled constraint-free path re-planning for tower crane in prefabricated products assembly process.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7267a6c8f1c88f85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mobile BIM implementation and lean interaction on construction site_A case study of a complex airport project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b495d9948dbe5613",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Construction workspace management_critical review and roadmap.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 298.5
   },
   "right": {
     "id": "0d7328c8a4a7b6a3",
@@ -115,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Reading_note/@keatingSitespecificSelfsufficientRobotic2017.md",
+                "file": "Second brain/Booklist Gooaye.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Reading_note/@keatingSitespecificSelfsufficientRobotic2017.md",
+                "file": "Second brain/Booklist Gooaye.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Reading_note/@keatingSitespecificSelfsufficientRobotic2017.md"
+                "file": "Second brain/Booklist Gooaye.md"
               }
             }
           },
@@ -198,42 +249,43 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "c0ef6e52e79d2537",
+  "active": "442a41c5e609878b",
   "lastOpenFiles": [
+    "ROBOT-76 立達計畫書撰寫機器人.md",
+    "Second brain/Booklist Gooaye.md",
+    "4_machinery to robotic on site HRC.md",
+    "2_Eternal/HRC relationship.md",
+    "Mobile BIM implementation and lean interaction on construction site_A case study of a complex airport project.md",
+    "Second brain/0_conference.md",
+    "Second brain/ICCEPM.md",
+    "Second brain/ICCCBE 2024.md",
+    "2_Eternal/Approaches of activity understanding for construction robot task planning.md",
+    "0_Thoughts/Diverse collaborative relationship in HRC.md",
+    "0_Thoughts/Dynamical Modeling of Groups.md",
+    "0_Thoughts/Use case of IHMI to support decision making.md",
+    "0_Thoughts/Types of physical interaction interface in HRC systems.md",
+    "0_Thoughts/Types of human–robot initiative communication methods in HRC systems.md",
+    "0_Thoughts/Geometric Deep LearningGrids, Groups, Graphs,Geodesics, and Gauges.md",
+    "0_Thoughts/dispossession and forced eviction.md",
+    "0_Thoughts/Construction robots.md",
+    "0_Thoughts/collaborative human–robot work in construction.md",
+    "Motion Planning and Coordination for Mobile Construction Machinery.md",
+    "Construction workspace management_critical review and roadmap.md",
+    "Smart work packaging-enabled constraint-free path re-planning for tower crane in prefabricated products assembly process.md",
     "Cooperative construction with machines.md",
     "kinematic geometry of a rigid body.md",
+    "Second brain/SONY.md",
+    "1_Reading_note/@keatingSitespecificSelfsufficientRobotic2017.md",
     "Resources/Pasted image 20230922153432.png",
     "human-in-the-loop.md",
-    "swarm robotics.md",
-    "Excalidraw/Drawing 2023-09-22 15.11.32.excalidraw.md",
-    "1_Reading_note/@keatingSitespecificSelfsufficientRobotic2017.md",
     "Resources/Pasted image 20230922151425.png",
-    "Resources/Drawing 2023-09-19 14.01.06.excalidraw.md",
     "Resources/Pasted image 20230919135610.png",
     "Resources/螢幕擷取畫面 2023-09-13 105030.png",
     "Resources/螢幕擷取畫面 2023-09-13 105807.png",
     "Resources/截圖 2023-03-20 下午10.25.02.png",
     "Resources/20230316_164709.jpg",
-    "human-in-the-loop simulation.md",
-    "Second brain/ICCCBE 2024.md",
-    "Second brain/0_conference.md",
-    "Grad-CAM 卷積可視化.md",
-    "HandBIM.md",
-    "1_Reading_note/@FlightAssembledArchitecture2014.md",
     "Resources/Pasted image 20230919160434.png",
     "Resources/Pasted image 20230919160423.png",
-    "1_Reading_note/@finio_measurement_2022.md",
-    "$/Borber.md",
-    "$/Dataview.md",
-    "$/How do you cite a source that cites another source.md",
-    "$/How to write Introduction.md",
-    "$/Mermaid.md",
-    "$/table.md",
-    "$/Zotero.md",
-    "1_Reading_note/@gharbia_robotic_2020.md",
-    "1_Reading_note/@Ong2008167.md",
-    "1_Reading_note/@ramirez-amaro_transferring_2017.md",
-    "1_Reading_note/@saranli_modular_2011-1.md",
     "Excalidraw",
     "Resources/我的文獻庫.bib",
     "Resources/Lib.bib",

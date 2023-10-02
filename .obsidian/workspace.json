@@ -8,84 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "48b38680b3ec6a32",
+            "id": "345527d7aac16b89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_machinery to robotic on site HRC.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26e25800dfc069b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Second brain/Booklist Gooaye.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "442a41c5e609878b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Second brain/Booklist Gooaye.md",
+                "file": "Normal Distribution.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "21928eb4142723a8",
+            "id": "d4f468dfa52c3318",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mobile BIM implementation and lean interaction on construction site_A case study of a complex airport project.md",
+                "file": "Poisson Distribution.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7e5c68500d816ea2",
+            "id": "7b5b54494898e86c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Smart work packaging-enabled constraint-free path re-planning for tower crane in prefabricated products assembly process.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7267a6c8f1c88f85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mobile BIM implementation and lean interaction on construction site_A case study of a complex airport project.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b495d9948dbe5613",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Construction workspace management_critical review and roadmap.md",
+                "file": "Ubuntu 建構紀錄.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#HMM",
+                "query": "tag:#continuos_distribution",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second brain/Booklist Gooaye.md",
+                "file": "Ubuntu 建構紀錄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second brain/Booklist Gooaye.md",
+                "file": "Ubuntu 建構紀錄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second brain/Booklist Gooaye.md"
+                "file": "Ubuntu 建構紀錄.md"
               }
             }
           },
@@ -232,8 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5,
-    "collapsed": true
+    "width": 352.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,10 +200,23 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "442a41c5e609878b",
+  "active": "7b5b54494898e86c",
   "lastOpenFiles": [
-    "ROBOT-76 立達計畫書撰寫機器人.md",
+    "Uniform Distribution.md",
+    "Latex.md",
+    "Poisson Distribution.md",
+    "Standard Normal Distribution.md",
+    "Exponential Distribution.md",
+    "Normal Distribution.md",
+    "Gamma Distribution.md",
+    "Binomial Diatribution.md",
+    "Geometric Distribution.md",
+    "Bernoulli Trial.md",
+    "Obsidian 數學公式.md",
+    "Ubuntu 建構紀錄.md",
+    "列印字串格式.md",
     "Second brain/Booklist Gooaye.md",
+    "ROBOT-76 立達計畫書撰寫機器人.md",
     "4_machinery to robotic on site HRC.md",
     "2_Eternal/HRC relationship.md",
     "Mobile BIM implementation and lean interaction on construction site_A case study of a complex airport project.md",
@@ -264,20 +228,7 @@
     "0_Thoughts/Dynamical Modeling of Groups.md",
     "0_Thoughts/Use case of IHMI to support decision making.md",
     "0_Thoughts/Types of physical interaction interface in HRC systems.md",
-    "0_Thoughts/Types of human–robot initiative communication methods in HRC systems.md",
-    "0_Thoughts/Geometric Deep LearningGrids, Groups, Graphs,Geodesics, and Gauges.md",
-    "0_Thoughts/dispossession and forced eviction.md",
-    "0_Thoughts/Construction robots.md",
-    "0_Thoughts/collaborative human–robot work in construction.md",
-    "Motion Planning and Coordination for Mobile Construction Machinery.md",
-    "Construction workspace management_critical review and roadmap.md",
-    "Smart work packaging-enabled constraint-free path re-planning for tower crane in prefabricated products assembly process.md",
-    "Cooperative construction with machines.md",
-    "kinematic geometry of a rigid body.md",
-    "Second brain/SONY.md",
-    "1_Reading_note/@keatingSitespecificSelfsufficientRobotic2017.md",
     "Resources/Pasted image 20230922153432.png",
-    "human-in-the-loop.md",
     "Resources/Pasted image 20230922151425.png",
     "Resources/Pasted image 20230919135610.png",
     "Resources/螢幕擷取畫面 2023-09-13 105030.png",

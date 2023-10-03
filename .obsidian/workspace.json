@@ -44,6 +44,16 @@
             }
           },
           {
+            "id": "33504806f54259f8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
+          },
+          {
             "id": "21928eb4142723a8",
             "type": "leaf",
             "state": {
@@ -92,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -249,7 +259,7 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "442a41c5e609878b",
+  "active": "33504806f54259f8",
   "lastOpenFiles": [
     "ROBOT-76 立達計畫書撰寫機器人.md",
     "Second brain/Booklist Gooaye.md",

@@ -4,105 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "646331b196d57edd",
+        "id": "b8fb858a713a8d6a",
         "type": "tabs",
         "children": [
           {
-            "id": "48b38680b3ec6a32",
+            "id": "c099470e2cc33431",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4_machinery to robotic on site HRC.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "26e25800dfc069b6",
+            "id": "9e6c0b1707e662e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Second brain/Booklist Gooaye.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "442a41c5e609878b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Second brain/Booklist Gooaye.md",
+                "file": "智慧建造 論壇&分享.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "33504806f54259f8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
-          },
-          {
-            "id": "21928eb4142723a8",
+            "id": "e2481b413c1accdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mobile BIM implementation and lean interaction on construction site_A case study of a complex airport project.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e5c68500d816ea2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Smart work packaging-enabled constraint-free path re-planning for tower crane in prefabricated products assembly process.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7267a6c8f1c88f85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mobile BIM implementation and lean interaction on construction site_A case study of a complex airport project.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b495d9948dbe5613",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Construction workspace management_critical review and roadmap.md",
+                "file": "BIM issue.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second brain/Booklist Gooaye.md",
+                "file": "智慧建造 論壇&分享.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second brain/Booklist Gooaye.md",
+                "file": "智慧建造 論壇&分享.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second brain/Booklist Gooaye.md"
+                "file": "智慧建造 論壇&分享.md"
               }
             }
           },
@@ -259,8 +197,11 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "33504806f54259f8",
+  "active": "9e6c0b1707e662e3",
   "lastOpenFiles": [
+    "BIM issue.md",
+    "智慧建造 論壇&分享.md",
+    "Excalidraw/Drawing 2023-10-03 12.57.37.excalidraw.md",
     "列印字串格式.md",
     "Uniform Distribution.md",
     "Ubuntu 建構紀錄.md",
@@ -284,9 +225,6 @@
     "Second brain/ICCCBE 2024.md",
     "2_Eternal/Approaches of activity understanding for construction robot task planning.md",
     "0_Thoughts/Diverse collaborative relationship in HRC.md",
-    "0_Thoughts/Dynamical Modeling of Groups.md",
-    "0_Thoughts/Use case of IHMI to support decision making.md",
-    "0_Thoughts/Types of physical interaction interface in HRC systems.md",
     "Resources/Pasted image 20230922153432.png",
     "Resources/Pasted image 20230922151425.png",
     "Resources/Pasted image 20230919135610.png",

@@ -11,7 +11,9 @@ $$
 - mean:
 $$
 E(X)=\alpha\beta
-$$- variance:
+$$
+- variance:
+
 $$
 Var(X)=\alpha\beta^2
 $$

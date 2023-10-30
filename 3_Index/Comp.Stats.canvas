@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"2079e48a82973221","type":"file","file":"Bernoulli Trial.md","x":-960,"y":-680,"width":400,"height":400},
+		{"id":"532c176104f2f814","type":"file","file":"2_Eternal/Binomial Diatribution.md","x":-520,"y":-680,"width":400,"height":400},
+		{"id":"739d7906ad93dd53","type":"file","file":"2_Eternal/Gamma Distribution.md","x":-80,"y":-680,"width":400,"height":400},
+		{"id":"a615477970fe09aa","type":"file","file":"2_Eternal/Geometric Distribution.md","x":360,"y":-680,"width":400,"height":400},
+		{"id":"aba8f66a9929a06c","type":"file","file":"2_Eternal/Exponential Distribution.md","x":-960,"y":-160,"width":400,"height":400},
+		{"id":"3865124ef3d42531","type":"file","file":"2_Eternal/Normal Distribution.md","x":-520,"y":-160,"width":400,"height":400},
+		{"id":"fac1eb5e1e204ecf","type":"file","file":"Poisson Distribution.md","x":-80,"y":-160,"width":400,"height":400},
+		{"id":"2f89195b26c5cd8e","type":"file","file":"2_Eternal/Uniform Distribution.md","x":360,"y":-160,"width":400,"height":400}
+	],
+	"edges":[]
+}

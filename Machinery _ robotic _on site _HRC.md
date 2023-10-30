@@ -1,9 +1,21 @@
 
 ### Introduction
-The management of construction workspaces and activities has garnered considerable scholarly and practical attention. Given the involvement of both human workers and machinery in construction projects, numerous investigations have sought to mitigate spatial and temporal conflicts inherent in coordinating multiple construction machines and their movements. This endeavor is driven by the overarching goal of enhancing both productivity and safety within construction contexts. While existing methodologies offer means for engineers to assess site planning from a logistical standpoint, facilitating the determination of potential site layouts and initial path planning for machine autonomy, there remains the need for on-site crews to adapt machine path planning in response to site-specific variability. Consequently, research endeavors are required to elucidate mechanisms for modifying the behavior of a group of machines to align with revised goals, which may arise from a new decision made by a single machine. Therefore, activities that entail coordination between humans and machines necessitate meticulous scrutiny.
+The management of construction workspaces and activities has garnered considerable scholarly and practical attention. Given the involvement of both human workers and machinery in construction projects, numerous investigations have sought to mitigate spatial and temporal conflicts inherent in coordinating multiple construction machines and their movements. This endeavor is driven by the overarching goal of enhancing both productivity and safety within construction contexts. 
+While existing methodologies offer means for
+	engineers to assess site planning from a logistical standpoint
+	, facilitating the determination of potential site layouts and initial path planning for machine autonomy
+, there remains the need for 
+	on-site crews to adapt machine path planning in response to site-specific variability
+	, 
+Consequently, research endeavors are required to elucidate mechanisms for modifying the behavior of a group of machines/robots to align with revised goals, which may arise from a new decision made by a single machine.
+Therefore, activities that entail coordination between humans and machines/robots need meticulous scrutiny.
 
 ### Literature
-[[Mobile BIM implementation and lean interaction on construction site_A case study of a complex airport project]]
+Medical uses?
+Health facilities
+service robots / framework / 質性研究
+senario
+Jubo
 
 [[Motion Planning and Coordination for Mobile Construction Machinery]]
 

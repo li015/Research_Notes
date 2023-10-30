@@ -1,13 +1,21 @@
 ---
-Create_time: 2023-09-22 23:07
+Create_time: 2023-10-11 14:52
 aliases: 
 Unsolved: V
 annotation-target:
 ---
 [Cite ::  ]
 [Last_modified : : `$= dv.current().file.mtime`.]
-##### [notes ::  
-The purpose of this paper is to examine the benefit realizations in terms of [[lean interactions]] resulting from mobile BIM processes through a framework by focusing on digital transformations performed on the construction site.
+##### [notes ::   
+- sensor-based
+	- RFID
+	- GPS
+	- UWB
+
+- vision-based
+	- 3-D Laser Scanning
+	- Photography
+
 ]
 
 - **[永久筆記 :: ]**

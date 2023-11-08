@@ -1,17 +1,17 @@
 ---
-Create_time : {{date:YYYY-MM-DD}} {{time:HH:mm}}
-Alias : 
-Unsolved :
+Create_time: 2023-11-08 16:52
+aliases: 
+Unsolved: 
 annotation-target:
 ---
 
 ---
-[Cite ::  ]
+[Cite ::  https://ithelp.ithome.com.tw/articles/10290793]
 [Last_modified : : `$= dv.current().file.mtime`.]
 
 
 ---
-##### [notes ::   ]
+##### [notes ::   缺陷管理、任務追蹤和專案管理的商業性應用軟體]
 
 
 ---
@@ -37,3 +37,4 @@ annotation-target:
 
 ---
 #### 索引
+#project_management

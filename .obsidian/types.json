@@ -1,0 +1,9 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Unsolved": "checkbox",
+    "Create_time": "datetime"
+  }
+}

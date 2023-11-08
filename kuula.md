@@ -1,17 +1,17 @@
 ---
-Create_time : {{date:YYYY-MM-DD}} {{time:HH:mm}}
-Alias : 
-Unsolved :
+Create_time: 2023-11-08 16:28
+aliases: 
+Unsolved: 
 annotation-target:
 ---
 
 ---
-[Cite ::  ]
+[Cite ::https://kuula.co/share/collection/7J9Qb?logo=1&info=1&fs=1&vr=0&zoom=1&thumbs=-1  ]
 [Last_modified : : `$= dv.current().file.mtime`.]
 
 
 ---
-##### [notes ::   ]
+##### [notes ::  3D 360 tour  ]
 
 
 ---

@@ -1,12 +1,12 @@
 ---
-Create_time : {{date:YYYY-MM-DD}} {{time:HH:mm}}
-Alias : 
-Unsolved :
+Create_time: 2023-11-08 16:23
+aliases: 
+Unsolved: 
 annotation-target:
 ---
 
 ---
-[Cite ::  ]
+[Cite :: https://80.lv/articles/julien-gauthier-s-procedural-building-generator-for-blender-updated/ ]
 [Last_modified : : `$= dv.current().file.mtime`.]
 
 
@@ -31,9 +31,9 @@ annotation-target:
 
 ---
 #### 歸檔 
-	-  [ ]
-	-  #
+[[Blender]]
 
 
 ---
 #### 索引
+#Blender

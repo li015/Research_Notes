@@ -1,16 +1,17 @@
 ---
-Create_time : {{date:YYYY-MM-DD}} {{time:HH:mm}}
-Alias : 
-Unsolved :
+Create_time: 2023-11-08 16:05
+aliases: 
+Unsolved: true
 annotation-target:
 ---
 
 ---
-[Cite ::  ]
+[Cite ::  https://builtin.com/artificial-intelligence/ai-real-estate]
 [Last_modified : : `$= dv.current().file.mtime`.]
 
 
 ---
+
 ##### [notes ::   ]
 
 

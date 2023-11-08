@@ -1,7 +1,7 @@
 ---
-Create_time : {{date:YYYY-MM-DD}} {{time:HH:mm}}
-Alias : 
-Unsolved :
+Create_time: 2023-11-08 16:48
+aliases: 
+Unsolved: 
 annotation-target:
 ---
 
@@ -37,3 +37,5 @@ annotation-target:
 
 ---
 #### 索引
+#BIM 
+#power_BI 

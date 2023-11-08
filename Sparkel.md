@@ -1,17 +1,18 @@
 ---
-Create_time : {{date:YYYY-MM-DD}} {{time:HH:mm}}
-Alias : 
-Unsolved :
+Create_time: 2023-11-08 14:38
+aliases: 
+Unsolved: true
 annotation-target:
 ---
 
 ---
-[Cite ::  ]
+[Cite :: https://sparkel.io/ ]
 [Last_modified : : `$= dv.current().file.mtime`.]
 
 
 ---
-##### [notes ::   ]
+
+##### [notes ::  Design Interpretation ]
 
 
 ---
@@ -37,3 +38,4 @@ annotation-target:
 
 ---
 #### 索引
+ #BIM 

@@ -23,5 +23,29 @@
       ],
       "key": "I"
     }
+  ],
+  "slides:start": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "P"
+    }
+  ],
+  "obsidian-citation-plugin:insert-markdown-citation": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "I"
+    }
+  ],
+  "obsidian-citation-plugin:update-bib-data": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "N"
+    }
   ]
 }

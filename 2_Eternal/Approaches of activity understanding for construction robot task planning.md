@@ -14,7 +14,7 @@ Robot Agnostic
 Robot dependent 
 	[[Policy learning method]]
 	[[Reward learning method]]
-	[[learning from observation methods]]
+	[[LfO]]
 	
 ]
 

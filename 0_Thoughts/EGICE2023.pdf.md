@@ -1,5 +1,5 @@
 ---
-annotation-target: '"D:\Lib\Conference2023\EGICE2023.pdf"'
+annotation-target: D:\Lib\Conference2023\EGICE2023.pdf
 ---
 
 
@@ -256,3 +256,17 @@ annotation-target: '"D:\Lib\Conference2023\EGICE2023.pdf"'
 >%%TAGS%%
 >
 ^w6geshwbr
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-08T15:26:17.917Z","updated":"2023-11-08T15:26:17.917Z","document":{"title":"","link":[{"href":"urn:x-pdf:252fb5cba0835b4a8ff0676daae4d279"}],"documentFingerprint":"252fb5cba0835b4a8ff0676daae4d279"},"uri":"urn:x-pdf:252fb5cba0835b4a8ff0676daae4d279","target":[{"source":"urn:x-pdf:252fb5cba0835b4a8ff0676daae4d279","selector":[{"type":"TextPositionSelector","start":2449603,"end":2449764},{"type":"TextQuoteSelector","exact":". Results indicate that extra context data can improve the  accuracy  of  a  GRU  encoder-decoder  network’s  ability  to  predict  a  workers’  future movement.","prefix":"y utilizing wearable sensor data","suffix":" A qualitative review of screen "}]}]}
+>```
+>%%
+>*%%PREFIX%%y utilizing wearable sensor data%%HIGHLIGHT%% ==. Results indicate that extra context data can improve the  accuracy  of  a  GRU  encoder-decoder  network’s  ability  to  predict  a  workers’  future movement.== %%POSTFIX%%A qualitative review of screen*
+>%%LINK%%[[#^59b0n4wibej|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^59b0n4wibej

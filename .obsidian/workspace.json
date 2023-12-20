@@ -4,165 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "684183c633da5c57",
+        "id": "4c38a92644b6ff6e",
         "type": "tabs",
         "children": [
           {
-            "id": "6d101020c3bf8220",
+            "id": "b3050d30360c11de",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "excalidraw",
               "state": {
-                "file": "0_Thoughts/EGICE2023.pdf.md"
+                "file": "Excalidraw/231121_condition1.md"
               }
             }
           },
           {
-            "id": "c461a61f06bd1090",
+            "id": "92bc038550429801",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IMU.md",
+                "file": "unread_Introduction to analyzing text with Azure AI Language Service and Csharp.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "315fed5cb8702fe8",
+            "id": "4ff18a1a1304a891",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wearable device human motion analysis.md",
+                "file": "Creditsafe.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2596b57c9631e37c",
+            "id": "58a99a074570aa57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI in Real Estate.md",
+                "file": "robots do have human-like emotions.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "42b5fbc19226325d",
+            "id": "b1a7a3d7454d873d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exporting IFC from Revit.md",
+                "file": "Life Hack.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "34de0d17479f372a",
+            "id": "ba8c77fe82259846",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "$/Borber.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "296a026fedcf4d4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "multi-granularity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0dc7f284d842de56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Microeconomics Principles Review.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a15c9dca5be7bb0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Julien Gauthier's Procedural Building Generator for Blender Updated.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5dca1d4d1ec10edb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "kuula.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be3228c79befb3f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIM power bi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9e2276f5a2a23a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "jira.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3464fbc976cf1106",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "numpy.einsum.md",
+                "file": "openAI-based social robot design for construction site.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -191,8 +107,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#BIM  ",
-                "matchingCase": false,
+                "query": "learning from observation",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -220,7 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 252.5
   },
   "right": {
     "id": "0d7328c8a4a7b6a3",
@@ -236,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "numpy.einsum.md",
+                "file": "robots do have human-like emotions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "numpy.einsum.md"
+                "file": "robots do have human-like emotions.md"
               }
             }
           },
@@ -286,7 +202,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "c05215b010a134fb",
@@ -298,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "numpy.einsum.md",
+                "file": "robots do have human-like emotions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -313,6 +230,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-advanced-slides:Show Slide Preview": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
@@ -322,60 +240,61 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-gallery:Gallery": false,
-      "dbfolder:Create a new database table": false
+      "dbfolder:Create a new database table": false,
+      "random-note:Open random note": false
     }
   },
-  "active": "3464fbc976cf1106",
+  "active": "58a99a074570aa57",
   "lastOpenFiles": [
-    "$/code_Borber.md",
-    "Untitled.md",
-    "$/Borber.md",
-    "numpy.einsum.md",
-    "jira.md",
-    "BIM power bi.md",
-    "kuula.md",
-    "Julien Gauthier's Procedural Building Generator for Blender Updated.md",
-    "Microeconomics Principles Review.md",
-    "multi-granularity.md",
+    "Creditsafe.md",
+    "robots do have human-like emotions.md",
+    "Life Hack.md",
+    "unread_Introduction to analyzing text with Azure AI Language Service and Csharp.md",
+    "Excalidraw/231121_condition1.md",
+    "Excalidraw/231121_condition2.md",
+    "openAI-based social robot design for construction site.md",
+    "Excalidraw/Drawing 2023-11-14 13.07.35.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-22 15.11.32.excalidraw.md",
+    "1_Reading_note/CONVR2023.md",
+    "1_Reading_note/@whitePromptPatternCatalog2023.md",
+    "1_Reading_note/@vandisChatGPTFivePriorities2023.md",
+    "1_Reading_note/@tanCanChatGPTReplace2023.md",
+    "1_Reading_note/@meyerLLMassistedKnowledgeGraph2023.md",
+    "1_Reading_note/@linContextbasedOntologyModelling2023.md",
+    "1_Reading_note/@yeImprovedTrustHumanRobot2023.md",
+    "Resources/Pasted image 20231118204105.png",
+    "CONVR2023.md",
+    "OpenAI.md",
+    "ChatGPT in construction.md",
+    "Classical Mechanics Animation in Python.md",
+    "Coding problem_shorts.md",
+    "3D Reconstruction from 2D Images Using Python.md",
+    "IRL.md",
+    "Material.md",
+    "Navigation.md",
+    "Render Setting.md",
+    "Resources/Pasted image 20231114171042.png",
+    "Resources/Pasted image 20231114165322.png",
+    "Resources/Pasted image 20231114164628.png",
+    "Resources/Pasted image 20231114164620.png",
+    "Resources/Pasted image 20231114161520.png",
+    "Resources/Pasted image 20231114161149.png",
+    "Resources/Pasted image 20231114161009.png",
+    "Resources/Pasted image 20231114132725.png",
+    "Resources/Pasted image 20231114132134.png",
+    "Resources/chart.png.crdownload",
+    "3_Index/Research.canvas",
     "DBMS",
-    "AI Tools for Architects and Designers.md",
-    "Exporting IFC from Revit.md",
-    "AI in Real Estate.md",
-    "Wearable device human motion analysis.md",
-    "Sparkel.md",
-    "IMU.md",
-    "Codeo solution.md",
-    "NASKA.md",
-    "simulation hub.md",
-    "Motion Analysis/Final proposal.md",
-    "Virtual construction.md",
-    "$/Dataview.md",
-    "$/How to write Introduction.md",
-    "$/table.md",
-    "$/Mermaid.md",
-    "$/Zotero.md",
     "Omniverse",
     "Motion Analysis",
-    "Resources/Pasted image 20231012170808.png",
-    "3_Index/Research.canvas",
     "3_Index/Comp.Stats.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
-    "Resources/Pasted image 20230922153432.png",
-    "Resources/Pasted image 20230922151425.png",
-    "Resources/Pasted image 20230919135610.png",
-    "Resources/螢幕擷取畫面 2023-09-13 105030.png",
-    "Resources/螢幕擷取畫面 2023-09-13 105807.png",
-    "Resources/截圖 2023-03-20 下午10.25.02.png",
-    "Resources/20230316_164709.jpg",
-    "Resources/Pasted image 20230919160434.png",
-    "Resources/Pasted image 20230919160423.png",
     "Excalidraw",
     "Resources/我的文獻庫.bib",
     "Resources/Lib.bib",
     "2_Eternal",
     "1_Reading_note",
-    "0_Thoughts",
-    "Second brain"
+    "0_Thoughts"
   ]
 }

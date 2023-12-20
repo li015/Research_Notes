@@ -9,6 +9,7 @@ Unsolved : V
 LfD-based motion learning approaches for robot action execution
 	[[LfD- Demonstration methods]]
 	[[LfD-Learning methods]]
+	behavioral cloning ([[BC]]) and inverse reinforcement learning ([[IRL]]).
 ]
 
 - **[永久筆記 :: ]**

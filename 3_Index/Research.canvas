@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"60030fca6ecc7918","x":-380,"y":-200,"width":513,"height":350,"type":"file","file":"0_Thoughts/Machinery _ robotic _on site _HRC.md"}
+		{"id":"fa6ade04dd2ee087","type":"file","file":"2_Eternal/0_openAI-based social robot design for construction site.md","x":-285,"y":-320,"width":400,"height":720},
+		{"id":"60030fca6ecc7918","type":"file","file":"0_Thoughts/Machinery _ robotic _on site _HRC.md","x":200,"y":-320,"width":440,"height":720},
+		{"id":"ed94192b7394051d","type":"file","file":"2_Eternal/0_research records.md","x":-800,"y":-320,"width":400,"height":720},
+		{"id":"d14045228c9e4dbe","x":-1320,"y":-320,"width":400,"height":720,"type":"file","file":"2_Eternal/0_LLM agents for Discussion and Evidence Presentation.md"}
 	],
 	"edges":[]
 }

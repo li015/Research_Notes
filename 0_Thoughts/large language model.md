@@ -11,23 +11,22 @@ annotation-target:
 
 
 ---
-##### [notes ::   總結出了七個關鍵的整合模式。這些模式涵蓋了整合 LLM 的性能、成本/風險、數據、用戶端的多種面向。
+##### [notes ::   
 
-1. 性能評估（Evals）：測量性能，確保模型達到預期的效果。
+## 摘要
+https://github.com/gkamradt/langchain-tutorials/blob/main/data_generation/5%20Levels%20Of%20Summarization%20-%20Novice%20To%20Expert.ipynb
+Map Reduce
 
-2. RAG：為 LLM 增添外部的知識，提升資訊的有效性和相關性。
+## 語意搜尋
+  https://openai.com/blog/new-and-improved-embedding-model
+用 餘弦相似性 (Cosine similarity) 可以找出最接近的 Vectors，就是最相似的內容
 
-3. Fine-tuning：針對特定任務進行優化，使模型更加專業和精準。
+將用戶的搜尋關鍵字，去找最相似的內容，就是語意搜尋了
 
-4. 快取（Caching）：降低延遲和成本，提升回應速度和系統效率。
+也可以拿來做推薦引擎，推薦相關的產品或是內容
 
-5. 品質監控（Guardrails）：確保輸出品質，防止錯誤訊息的產生。
-
-6. 防禦型用戶體驗（Defensive UX）：預見和優雅地處理錯誤，提升用戶體驗。
-
-7. 收集用戶回饋（Collect User Feedback）：透過使用者的回饋數據驅動，不斷優化和調整模型。
 ]
-
+[[Fine-tuning LLM]]
 [[LLM Ecosystem]]
 LLM 本身不會用外部工具
 [[LLM 安全性問題]]

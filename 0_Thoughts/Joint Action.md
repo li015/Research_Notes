@@ -1,7 +1,8 @@
 ---
-Create_time : 2023-03-09 17:34
-Alias : Concept
-Unsolved : V
+Create_time: 2023-03-09 17:34
+aliases:
+  - Concept
+Unsolved: true
 ---
 [Cite ::  ]
 [Last_modified : : `$= dv.current().file.mtime`.]

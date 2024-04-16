@@ -23,7 +23,7 @@ Open AI 發佈會摘要 - 以及李慕約的主觀評論
 
 ✦ 未來展望：OpenAI 將聚焦於提升速度，GPT-4 還會快更多。
 
-![🤔](https://static.xx.fbcdn.net/images/emoji.php/v9/t8d/1.5/16/1f914.png)：新創公司在哭。RAG、ChatPDF、LangChain。原本很多 RAG 的場景現在就不用了。
+![🤔](https://static.xx.fbcdn.net/images/emoji.php/v9/t8d/1.5/16/1f914.png)：新創公司在哭。[[RAG]]、ChatPDF、LangChain。原本很多 [[RAG]] 的場景現在就不用了。
 
 ▋ 多模態 API
 
@@ -93,10 +93,3 @@ Open AI 發佈會摘要 - 以及李慕約的主觀評論
 
 ✦ [AI 詠唱者交流（AIGC 人工智慧產製內容）](https://www.facebook.com/groups/aigcstation/?__cft__[0]=AZXNlgbusXVX-3dbY59RRiwag9hfMG21kWVEFbZWHNw3Zp4MTpSV6pZcPanwP-vfcO1nM8nTIUYt-mwHN4do8CsEPp0x-HVQzm5Gy_FDYs3dQV2K6w6DDiyS5wFRJolddNZbDXvmqdpg4jRETcJpHJ_zrVeHQuHWA0zlKk4nVr-NKd7xM90YOo4ibjvXKyRUsPFwdG-MmYBAaoSQ1rA2rgMA&__tn__=-UK-y-R)
 
-✦ 以脫口秀(x)的形式分享最新 AI 進展
-
-✦ 今年 11、12 月的活動已經滿了
-
-✦ 明年1月的活動歡迎加入
-
-假如你在使用 AI，你在這裡可以找到同伴。電子報連結在留言：[]
